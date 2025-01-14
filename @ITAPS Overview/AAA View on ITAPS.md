@@ -14,8 +14,6 @@
 
 #### Local LLMs
 
-[[ollama]]
-
 [[Description of using Local LLM]]
 
 #### Supporting Tech
