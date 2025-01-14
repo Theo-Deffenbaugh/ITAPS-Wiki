@@ -1,6 +1,6 @@
 [See here](https://en.wikipedia.org/wiki/Behavioral_economics).
 
-Applications should embed practical learnings from behavioral Economics.  See also [[Belief in Dual-Coding Theory]].
+Applications should embed practical learnings from behavioral Economics.  See also [[Dual-Coding Theory]].
 
 **Behavioral economics** is a field of study that blends insights from psychology with traditional economic theory to understand how individuals actually make decisions in real-world situations. Unlike classical economics, which assumes that people are rational agents who always make decisions to maximize their utility, behavioral economics acknowledges that human behavior is often irrational and influenced by various cognitive biases and emotional factors.
 

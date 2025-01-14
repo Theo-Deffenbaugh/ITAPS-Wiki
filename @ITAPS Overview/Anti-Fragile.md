@@ -19,7 +19,7 @@ The choice to use [[Github]] is another anti-fragile choice as all changes are d
 2. **Economies**: Decentralized economies can be antifragile, as they can adapt more swiftly to changes and crises compared to centralized systems.
 3. **Entrepreneurship**: Startups that iterate and pivot based on market feedback often become more resilient and successful over time.
 
-### Antifragility in Behavioral Economics
+### Antifragility in [[Behavioral Economics]]
 
 In behavioral economics, understanding antifragility can lead to better decision-making strategies in uncertain environments. It encourages individuals and organizations to embrace risk and volatility in a controlled manner, leveraging these factors to gain strength and achieve growth.
 

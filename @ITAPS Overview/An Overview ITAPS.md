@@ -1,21 +1,22 @@
+
+
 #### The Psychology of ITAPS applications
 
-[[Belief in Dual-Coding Theory]]
+[[Dual-Coding Theory]]
 
-[[Belief in Behavioral Economics]]
+[[Behavioral Economics]]
 
-[[Belief in Minnesota Big Five]]
+[[Minnesota Big Five]]
 
 #### The Guiding Principles Of ITAPS apps
 
-All apps should be [[Anti-Fragile]], with design choices like [[Embed b64 strings in .md files for antifragility and revisions control]] and [[Github]]
+ [[Anti-Fragile]], with design choices like [[Embed b64 strings in .md files for antifragility and revisions control]] and [[Github]]
 
 #### Local LLMs
 
 [[ollama]]
 
 [[Description of using Local LLM]]
-
 
 #### Supporting Tech
 
