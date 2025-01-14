@@ -1,3 +1,5 @@
+[See here](https://en.wikipedia.org/wiki/Antifragile_(book)).
+
 **Antifragile** is a concept introduced by Nassim Nicholas Taleb in his book "Antifragile: Things That Gain from Disorder." The term describes systems, entities, or individuals that not only withstand shocks, stressors, and volatility but actually improve and grow stronger in response to them. It's the opposite of fragile, which denotes things that break under stress, and also different from robust, which denotes things that withstand stress without changing.
 
 The choice to embed graphics, see [[Embed b64 strings in .md files for antifragility and revisions control]], as a b64 string is to remove the threat of breaking pointers, although it is wasteful for space and possibly first level extraction / ingestion.  However, from an atomic level, text and supporting graphics should go together.
@@ -30,5 +32,3 @@ For instance, investment strategies that take advantage of market volatility (su
 - **Public Policy**: Policies that encourage innovation and flexibility in response to crises can create more resilient societies.
 
 Antifragility is a powerful concept that encourages embracing uncertainty and leveraging it for growth and improvement. It provides a new lens through which we can view and navigate the complexities of the modern world.
-
-If you have any further questions or need more examples, feel free to ask!
