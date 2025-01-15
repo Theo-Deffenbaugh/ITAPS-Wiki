@@ -8,9 +8,19 @@
 
 [[Minnesota Big Five]]
 
+[[Gallup Engagement Model]]
+
+[[Peopleware]] and [[Brainchains]]
+
+[[Skin In The Game]]
+
+[[Flow]]
+
+
+
 #### The Guiding Principles Of ITAPS apps
 
- [[Anti-Fragile]], with design choices like [[Embed b64 strings in .md files for antifragility and revisions control]] and [[Github]]
+ [[Anti-Fragile]], in action: [[Embed b64 strings in .md files for antifragility and revisions control]] and [[Github]]
 
 #### Local LLMs
 
@@ -29,6 +39,8 @@
 [[MDpng2MDWebp]]
 
 [[Github]]
+
+[[Mermaid]]
 
 
 #### ITAPS Apps
