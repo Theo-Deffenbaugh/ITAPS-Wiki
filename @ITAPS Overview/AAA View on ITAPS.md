@@ -1,4 +1,6 @@
+#### Market Segmentation
 
+[[WFE (workforce engagement) versus CX automation]]
 
 #### The Neural Axioms In ITAPS applications
 
