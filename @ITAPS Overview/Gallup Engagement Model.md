@@ -1,8 +1,8 @@
 [See Here](https://en.wikipedia.org/wiki/Employee_engagement)
 
-[[U.S. Employee Engagement Sinks to 10-Year Low]] shows that their is noise in the system, and unclear how much of this is that there will always be noise. 
+While details of the Gallup model is below, [[Clear Expectations]] is the most important attribute and discussed by other means including [[Management by Objective]] and [[OKR]]s.
 
-However, proper use of the following with AI will generate more engagement.
+Gallup model also has close ties to [[Five Dysfunctions of a Team]] and [[Project Aristotle]]
 
 The **Gallup Employee Engagement Model** is centered around the **Q12 Employee Engagement Survey**, which consists of 12 questions designed to measure the most important elements of employee engagement. Gallup's research has shown that these elements are critical for creating a high-performing workplace.
 
@@ -20,6 +20,6 @@ The **Gallup Employee Engagement Model** is centered around the **Q12 Employee E
 11. **Job Security**: Confidence in job security.
 12. **Trust in Senior Leadership**: Trust in the organization's leadership.
 
-By focusing on these elements, organizations can improve employee engagement, which in turn leads to higher productivity, better customer satisfaction, and increased profitability.
+[[U.S. Employee Engagement Sinks to 10-Year Low]] shows that their is noise in the system, and unclear how much of this is that there will always be noise. 
 
-Would you like to know more about how to implement this model in your organization?
+However, proper use of the following with AI will generate more engagement.

@@ -24,9 +24,7 @@
 
 [[Too Much Talent Hypothesis]]
 
-#### Potential Theories To Be Embraced
-
-[[Systems Thinking]]
+#### 
 
 #### Theories Not Embraced
 

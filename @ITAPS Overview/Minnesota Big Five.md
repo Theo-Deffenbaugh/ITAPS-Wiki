@@ -1,7 +1,14 @@
 [See here](https://en.wikipedia.org/wiki/Big_Five_personality_traits).
 
-Apps should base data served up on the basis of the Big Five for what is required.  
+The [[AMO (Ability, Motivation, Opportunity) framework]] can be summarized as employees potential in a series of questions.
 
+1. What knowledge do they bring to the job without learning
+2. What is their ability to process knowledge
+3. What is their ability to learn new knowledge
+4. What opportunity does the job present to use the above
+5. What is their personality like, or what they call motivation
+
+While the AMO is powerful, it does not leverage a clear path of personality, which is critical in managing employees and tailoring their job. 
 ### The Big Five Personality Traits
 
 The Big Five personality traits, also known as the Five Factor Model (FFM), describe five broad dimensions of human personality. These traits are:
@@ -21,6 +28,7 @@ The Big Five personality traits, also known as the Five Factor Model (FFM), desc
 4. **Agreeableness**:
    - **Description**: Reflects a person's tendency to be compassionate and cooperative towards others.
    - **Characteristics**: Trusting, altruistic, kind, affectionate, sympathetic.
+   - [[Low agreeable scores are associated with leadership]] in many situations
 
 5. **Neuroticism**:
    - **Description**: Measures emotional stability and the tendency to experience negative emotions.
