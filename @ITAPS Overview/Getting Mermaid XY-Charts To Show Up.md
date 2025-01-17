@@ -1,5 +1,79 @@
 There is a bug in obsidian that prevents XY charts from showing up.
 
+#### Short Cut Fix For This
+
+Here is My .css file which I think is good enough for the default.
+
+Put in \.obsidian\snippets as mermaid-themes.css  Once the file is there, restart obsidian to set the defaults for your charts.
+```TextCopy
+/* Affect x-axis, y-axis, line */
+.mermaid svg[aria-roledescription="xychart"] g > g > path {
+    stroke: rgb(var(--mermaid-green-rgb)) !important;
+    stroke-width: 2px !important;
+}
+
+/* Affect x-axis, y-axis */
+.mermaid svg[aria-roledescription="xychart"] g.left-axis path,
+.mermaid svg[aria-roledescription="xychart"] g.bottom-axis path {
+    stroke: rgb(var(--mermaid-gray-rgb)) !important;
+    stroke-width: 1px !important;
+}
+
+/* Specific lines */
+.mermaid svg[aria-roledescription="xychart"] g.line-plot-0 path {
+    stroke: #f00 !important;  /* Applying red color to the first line plot */
+}
+.mermaid svg[aria-roledescription="xychart"] g.line-plot-1 path {
+    stroke: #f00 !important;  /* Applying red color to the second line plot */
+}
+
+.mermaid svg[aria-roledescription="xychart"] {
+
+  /* add spacious Obsidian background */
+  padding: 1rem 2rem 1rem 1rem;
+  background-color: var(--background-secondary);
+
+  & g.main {
+
+    /* hide Mermaid background */
+    & rect.background {
+      opacity: 0;
+    }
+
+    & g.plot {
+
+      /* bar chart */
+      & rect {
+        fill: var(--color-blue) !important;
+      }
+
+      /* line chart */
+      & path {
+        stroke: var(--color-red) !important;
+      }
+    }
+
+    /* choose color for axes */
+    & g.bottom-axis,
+    & g.left-axis {
+
+      & path,
+      & g.label text,
+      & g.title text {
+        stroke: var(--text-faint) !important;
+      }
+    }
+
+    /* no ticks on bottom axis */
+    & g.bottom-axis g.ticks{
+        display: none;
+    }  
+  }
+}
+```
+
+
+
 For example:
 
 mermaid code is as follows (after the three hash marks, normally you put mermaid to get a diagram, which I don't want)
@@ -20,7 +94,7 @@ xychart-beta
 **
 ```
 
-[This produces a chart with no line]([https://forum.obsidian.md/t/mermaid-lines-not-showing-in-xy-chart/75765/4) Which is talked about in this post.
+[This produces a chart with no line]([https://forum.obsidian.md/t/mermaid-lines-not-showing-in-xy-chart/75765/4) 
 
 The author in this post, suggest fixing it via a CSS file.  He gives an idea, but he added in 
 

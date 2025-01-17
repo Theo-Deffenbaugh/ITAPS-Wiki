@@ -4,7 +4,30 @@ See [[zITAPS/@ITAPS Overview/Getting Mermaid XY-Charts To Show Up|Getting Mermai
 
 Claude.io currently is the best with mermaid output for suggested chart.
 
-Prompt Engineering:
+Prompt Engineering 1:  For getting a mermaid bar chart out of Gemini.  
+
+First paste your chart, then prompt as follows:
+
+```GeminiPaste
+convert chart to a mermaid form. use this as sample code: xychart-beta
+
+    title "Sample Chart"
+    x-axis [1, 2, 3, 4, 5, 6]
+    y-axis "Values" 0 --> 100
+    bar [10, 20, 30, 40, 50]
+```
+
+```mermaid
+xychart-beta
+    title "TSMC's AI Accelerator Demand Remain Robust"
+    x-axis [2024, 2025E, 2029E]
+    y-axis "TSMC's AI Accelerator Revs ($Bn)" 0 --> 100
+    bar [14, 27, 87]
+```
+
+```
+
+Prompt Engineering 2:
 
 #### Prompt Engineering To Get Mermaid Charts
 

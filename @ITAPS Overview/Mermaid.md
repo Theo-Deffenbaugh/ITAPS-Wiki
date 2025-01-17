@@ -1,5 +1,7 @@
 [See Here](https://wiki.freephile.org/wiki/Mermaid).
 
+High suggest [[Getting Mermaid XY-Charts To Show Up]] to set your CSS file to fix issues with display for XYCharts.
+
 Mermaid capability for the creation of charts should be encouraged between of the distillation of graphic information into clear text.
 
 See [[Mermaid Syntax]] for more comments for useage.

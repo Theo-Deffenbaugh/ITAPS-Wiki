@@ -8,6 +8,12 @@
 
 [[Behavioral Economics]]
 
+#### Human Performance Textbooks
+
+[[Performance Management - Changing Behavior]]
+
+[[PERFORMANCE MANAGEMENT]]
+
 #### Management Theories Embedded In Apps
 
 [[AMO (Ability, Motivation, Opportunity) framework]]
@@ -34,6 +40,8 @@
 
 [[Emotional Intelligence]]
 
+[[Vitality Curve (Performance Bell Curve)]]
+
 #### Teamwork psychology
 
 [[Project Aristotle]]
@@ -46,9 +54,17 @@
 
 [[Knowledge-Based View (KBV) Of The Firm]]
 
+#### Role Out Underpinnings
+
+[[Leading Change Framework]]
+
 #### Local LLMs
 
 [[Description of using Local LLM]]
+
+#### LLM Trends
+
+[[Agentic AI]]
 
 #### Supporting Tech
 

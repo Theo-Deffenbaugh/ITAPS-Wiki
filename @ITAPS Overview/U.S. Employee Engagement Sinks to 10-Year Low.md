@@ -6,25 +6,17 @@ author:
 published: 2025-01-14
 created: 2025-01-14
 description: Since last year, 3.2 million fewer employees felt enthusiastic about and involved in their work, matching a figure not seen in the U.S. since 2014.
-tags:
-  - psychology
+tags: []
 ---
-```mermaid
-xychart-beta
-title "U.S. Employee Engagement Trend"
-title "U.S. Employee Engagement Trend"
-x-axis [2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024]
-y-axis "Percentage" 0 --> 40
-line [26, 28, 30, 29, 28, 27, 26, 28, 30, 29, 28, 28.5, 29, 29.5, 30, 31, 32, 32.5, 33, 34.5, 36, 34, 32, 31.5, 31]
-```
+
 
 ```mermaid
 xychart-beta
-title "U.S. Employee ACTIVEVY Engagement as A Percent (Bottom Line)"
-x-axis [2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024]
-y-axis "Percentage" 0 --> 40
-line [18, 17.5, 17, 16, 15, 17.5, 20, 19, 18, 16.5, 18, 18, 18, 17.5, 17, 16, 15, 14, 13, 13.5, 14, 16, 18, 17.5, 17]
-
+    title "U.S. Engagement Trend (2000-2024) Bars Is Engaged, Line Highly Engaged"
+    x-axis [2000, 2002, 2004, 2006, 2008, 2010, 2012, 2014, 2016, 2018, 2020, 2022, 2024, 2026]
+    y-axis "Percentage (%)" 0 --> 40
+    bar [26, 30, 29, 28, 30, 28, 30, 31, 33, 34, 36, 32, 31]
+    line [18, 17, 16, 20, 18, 17, 18, 17, 16, 13, 14, 17, 17]
 ```
 
 

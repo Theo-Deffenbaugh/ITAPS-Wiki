@@ -1,4 +1,4 @@
-Based on the latest market data and industry reports, the leading companies in Workforce Engagement (WFE) include:
+Based on the latest market data and industry reports, the leading companies in Workforce Engagement (WFE) include, which is closely related to [[WFE (workforce engagement) versus CX automation]]
 
 ## Top WFE Vendors
 

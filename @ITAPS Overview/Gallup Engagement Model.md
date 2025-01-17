@@ -1,5 +1,8 @@
 [See Here](https://en.wikipedia.org/wiki/Employee_engagement)
 
+[[U.S. Employee Engagement Sinks to 10-Year Low]] shows more recent data.
+
+
 While details of the Gallup model is below, [[Clear Expectations]] is the most important attribute and discussed by other means including [[Management by Objective]] and [[OKR]]s.
 
 Gallup model also has close ties to [[Five Dysfunctions of a Team]] and [[Project Aristotle]]
@@ -20,6 +23,6 @@ The **Gallup Employee Engagement Model** is centered around the **Q12 Employee E
 11. **Job Security**: Confidence in job security.
 12. **Trust in Senior Leadership**: Trust in the organization's leadership.
 
-[[U.S. Employee Engagement Sinks to 10-Year Low]] shows that their is noise in the system, and unclear how much of this is that there will always be noise. 
+
 
 However, proper use of the following with AI will generate more engagement.
