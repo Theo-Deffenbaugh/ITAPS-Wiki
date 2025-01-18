@@ -1,3 +1,5 @@
+See [[AI Ingestion Guidelines]]
+
 This wiki to embed b64 files into .md files, and this helps the process.
 
 [A utility that will allow you select a .png file, click on it through a GUI interface, and it will create a .md file with an embedded webp b64 stream.]([Sanborn-Young/PNG2MD: A small compiled Python Program To Convert PNG into a MD file you can paste into .md program like Obsidian.](https://github.com/Sanborn-Young/PNG2MD))

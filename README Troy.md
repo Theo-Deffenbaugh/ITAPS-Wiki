@@ -4,6 +4,8 @@
 
 The pages are assumed to be read inside of Obsidian, thus the graphics are embedded as ASCII to prevent broken links.  So while this can be read on github, you'll need to deal with embedded graphics
 
+GO TO [[AAA Roadmap to ITAPS]] FOR TOP LEVEL KEY
+
 This means that you should set up  a Obsidian / Github sync.
 
 

@@ -1,3 +1,6 @@
+#### NOTE:  THIS SECTION IS OUT OF DATE AND NOT LOCKED INTO CURRENT STRATEGY
+
+
 SOLOMON: **S**ecurely **O**ptimized **L**LM **O**perations **M**anagement, **O**rchestrator & **N**avigator
 
 * Securely Optimized:  A local LLM that you control the input and the data

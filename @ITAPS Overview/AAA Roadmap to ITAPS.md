@@ -1,6 +1,46 @@
+#### Required Read Before Posting
+
+[[Post Formation]]
+
+#### Current Decision Log And Reversals
+
+[[Most likely the moat of Local LLM is destructive to ramping Solomon]]
+
+[[ITAPS Does Not Suggest Skin In The Game Nor Business Model]]
+
+#### The Big Picture
+
+[[AI disrupts Labor vs Capital]]
+
+[[The Cloud Removes Capital Issues]]
+
+[[AI changes how companies think about IT]]
+
+[[AI is ready to Cross The Chasm And Out Of The Trough]]
+
+[[The USA Income Statement]] provides guardrails for TAM.
+
+[[Managers Don't Know What Their Employees Are Working On]]
+
+### What Is Solomon
+
+[[Solomon Strategy]]
+
+[[Solomon Phase I]]
+
+[[Solomon Phase II]]
+
+[[Solomon Phase III]]
+
+#### ITAPS Business
+
+
+
 #### Market Segmentation
 
 [[WFE (workforce engagement) versus CX automation]]
+
+[[Defining who makes the purchase decision]]
 
 #### The Neural Axioms In ITAPS applications
 
@@ -66,7 +106,7 @@
 
 [[Agentic AI]]
 
-#### Supporting Tech
+#### Obsidian / Wiki Tools
 
 [[docling]]
 
@@ -82,6 +122,18 @@
 
 [[Mermaid]]
 
+#### Voice AI
+
+[[Voice versus keyboard]]
+
+[[Voice Backend Companies]]
+
+
+
+#### Prompt Help
+
+[Henry's Fourday](https://prompt.fourday.ai/)
+
 
 #### ITAPS Apps
 
@@ -91,6 +143,8 @@
 #### Gray and Debated Areas
 
 [[Local LLM vs Cloud LLM]]
+
+[[IP patents and software trolls are life threatening to our business]]
 
 
 

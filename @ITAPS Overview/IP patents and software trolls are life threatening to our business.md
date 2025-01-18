@@ -1,0 +1,1 @@
+The US patent office and case law suggests that small start-ups without IP protection are extremely fragile.  

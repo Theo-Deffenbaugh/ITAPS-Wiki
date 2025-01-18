@@ -1,3 +1,5 @@
+See [[AI Ingestion Guidelines]]
+
 While [[docling]] provide a good ingest engine, for ITAPS apps, the PNG file is unnecessarily big.
 
 [MDpng2MDWebp]([Sanborn-Young/MDpng2MDWebp: This is made for docling users that want to shrink the size of a PDF file rendered by docling. Dramatic space savings.](https://github.com/Sanborn-Young/MDpng2MDWebp)) is a utility created that will read any file that docling produces, and convert the embedded png files into webp files.

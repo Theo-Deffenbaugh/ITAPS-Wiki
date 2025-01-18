@@ -1,3 +1,5 @@
+See [[AI Ingestion Guidelines]]
+
 Docling is the preferred ingest engine for ITAP apps because of the robustness of processing tables, and their choice to embed graphics
 
 It is instructive to read why IBM made the choice to embed the graphics.
