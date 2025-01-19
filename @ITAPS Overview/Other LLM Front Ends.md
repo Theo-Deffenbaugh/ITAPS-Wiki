@@ -1,0 +1,1 @@
+https://old.reddit.com/r/selfhosted/comments/1i4ef8g/best_selfhosted_ai_ui/

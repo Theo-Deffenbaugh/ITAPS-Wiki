@@ -1,4 +1,4 @@
-DO NOT LINK TO GRAPHIC EMBED THEM TO FOSTER [[Anti-Fragile]] AND [[AI Ingestion Guidelines]]
+DO NOT LINK TO GRAPHIC.   EMBED THEM TO FOSTER [[Anti-Fragile]] AND [[AI Ingestion Guidelines]]
 
 Create graphics whenever as embedded .b64 ASCII or Mermaid
 	1. Mermaid is preferred as AI categorization will be trivial 

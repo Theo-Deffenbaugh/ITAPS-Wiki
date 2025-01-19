@@ -2,6 +2,20 @@
 
 [[Post Formation]]
 
+#### Tool List
+
+[[OpenProject]]
+
+[[Obsidian]]
+
+
+
+
+
+### What Is Solomon
+
+[[Solomon Strategy]]
+
 #### Current Decision Log And Reversals
 
 [[Most likely the moat of Local LLM is destructive to ramping Solomon]]
@@ -22,19 +36,13 @@
 
 [[Managers Don't Know What Their Employees Are Working On]]
 
-### What Is Solomon
-
-[[Solomon Strategy]]
-
-[[Solomon Phase I]]
-
-[[Solomon Phase II]]
-
-[[Solomon Phase III]]
 
 #### ITAPS Business
 
+[[ITAPS Business Ownership]]
+#### Project Management
 
+[[ITAPS Project Management Flow]]
 
 #### Market Segmentation
 
@@ -135,7 +143,7 @@
 [Henry's Fourday](https://prompt.fourday.ai/)
 
 
-#### ITAPS Apps
+#### Abandoned or Orphan
 
 [[Solomon Overview]] 
 
