@@ -8,6 +8,7 @@
 
 [[Obsidian]]
 
+[[SIST2]]
 
 
 
@@ -20,7 +21,7 @@
 
 [[Most likely the moat of Local LLM is destructive to ramping Solomon]]
 
-[[ITAPS Does Not Suggest Skin In The Game Nor Business Model]]
+[[ITAPS May Not Be The Best Name]]
 
 #### The Big Picture
 
@@ -80,7 +81,7 @@
 
 [[Too Much Talent Hypothesis]]
 
-Hedonistic Treadmill
+[[Hedonistic Treadmill]]
 
 #### Potential Theories To Be Embraced
 
