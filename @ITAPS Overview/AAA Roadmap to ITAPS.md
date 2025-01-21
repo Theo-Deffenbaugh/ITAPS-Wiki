@@ -11,8 +11,6 @@
 [[SIST2]]
 
 
-
-
 ### What Is Solomon
 
 [[Solomon Strategy]]

@@ -9,8 +9,6 @@ Overview For Creation Of Notes:
 
 
 
-
-
 The Zettelkasten method is a powerful knowledge management and note-taking system that has gained popularity in recent years for its ability to enhance productivity, creativity, and learning. Developed by German sociologist Niklas Luhmann, who used it to write over 70 books and hundreds of articles, the Zettelkasten (German for "slip box") transforms fragmented notes into an interconnected web of knowledge[1].
 
 ## Key Principles of Zettelkasten
