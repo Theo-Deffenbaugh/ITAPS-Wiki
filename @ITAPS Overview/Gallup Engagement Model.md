@@ -10,6 +10,7 @@ Gallup model also has close ties to [[Five Dysfunctions of a Team]] and [[Projec
 The **Gallup Employee Engagement Model** is centered around the **Q12 Employee Engagement Survey**, which consists of 12 questions designed to measure the most important elements of employee engagement. Gallup's research has shown that these elements are critical for creating a high-performing workplace.
 
 ### Key Components of the Gallup Engagement Model:
+
 1. **Clear Expectations**: Employees need to know what is expected of them at work.
 2. **Immediate Supervisor**: Having a supervisor who supports and encourages them.
 3. **Opportunities to Learn and Grow**: Employees should have opportunities to develop their skills and advance their careers.
