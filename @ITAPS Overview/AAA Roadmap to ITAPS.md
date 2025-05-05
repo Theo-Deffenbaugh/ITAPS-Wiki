@@ -89,7 +89,7 @@
 
 [[Emotional Intelligence]]
 
-[[Vitality Curve (Performance Bell Curve)]]
+[[Vitality Curve (Perform ance Bell Curve)]]
 
 #### Teamwork psychology
 
